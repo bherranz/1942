@@ -13,9 +13,10 @@
 7. [Game Explanation](#game-explanation)
 8. [Conclusion](#conclusion)
 
-![Start Screen](assets/gifs/start_screen.gif)
-![Gameplay](assets/gifs/gameplay.gif)
-
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img src="assets/gifs/start_screen.gif" width="300" />
+  <img src="assets/gifs/gameplay.gif" width="300" />
+</div>
 
 ## Overview
 
