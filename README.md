@@ -13,6 +13,10 @@
 7. [Game Explanation](#game-explanation)
 8. [Conclusion](#conclusion)
 
+![Start Screen](assets/gifs/start_screen.gif)
+![Gameplay](assets/gifs/gameplay.gif)
+
+
 ## Overview
 
 This is a simple recreation of the classic *1942* arcade game, built using the Pyxel library in Python. It was our first programming project, designed to learn the basics of game development, object-oriented programming, and handling game logic.
