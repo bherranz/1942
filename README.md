@@ -43,7 +43,7 @@ This is a simple recreation of the classic *1942* arcade game, built using the P
    ```
 3. Clone this repository:
    ```sh
-   git clone <repository_url>
+   git clone <https://github.com/bherranz/1942.git>
    ```
 4. Navigate to the project folder:
    ```sh
